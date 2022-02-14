@@ -12,17 +12,17 @@ node app.js add --title="{TITLE}" --body="{BODY TEXT}"
 node app.js remove --title="{TITLE}"
 ```
 
-## Listing All Notes
+- ## Listing All Notes
 ``` yaml
 node app.js list
 ```
 
-## - Read a Note
+- ## Read a Note
 ``` yaml
 node app.js read --title="{TITLE}"
 ```
 
-#### - Replace the {TITLE} and {BODY TEXT} for example : 
+* ####  Replace the {TITLE} and {BODY TEXT} for example : 
 ``` yaml 
 node app.js add --title="Quote" --body="If you don't learn from your mistakes, then they become regrets." 
 ```
