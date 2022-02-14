@@ -10,6 +10,7 @@ node app.js add --title="{TITLE}" --body="{BODY TEXT}"
   Example output :
 ![adding note output](/E04772D8-D4F1-4828-A917-E1E723B0D996_1_201_a.jpeg)
 
+---
 
 - ## Removing Note
 ``` yaml
