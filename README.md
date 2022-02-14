@@ -2,12 +2,12 @@
 
 # Instructions to use 👇 :
 
-## Adding Note
+- ## Adding Note
 
 ``` yaml
 node app.js add --title="{TITLE}" --body="{BODY TEXT}"
 ```
-## Removing Note
+- ## Removing Note
 ``` yaml
 node app.js remove --title="{TITLE}"
 ```
