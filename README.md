@@ -23,7 +23,7 @@ node app.js read --title="{TITLE}"
 ```
 <hr>
 
-* ####  Replace the {TITLE} and {BODY TEXT} for example : 
+* ####  Replace the {TITLE} and {BODY TEXT} , for example : 
 ``` yaml 
 node app.js add --title="Quote" --body="If you don't learn from your mistakes, then they become regrets." 
 ```
